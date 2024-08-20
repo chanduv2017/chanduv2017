@@ -4,7 +4,7 @@
 </h1> 
 <h3 align="center">I am a passionate Full Stack web developer and a machine learning enthusiast. </h3>  
 
-<img align='center' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV5NDBtZDJiNnFqanJpb2UwZjAxZnR2bDZ6MDh0aDNldWQ1aWd3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8Sss1YFsMbPcx7bOh/giphy.webp" width="480" height="398">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV5NDBtZDJiNnFqanJpb2UwZjAxZnR2bDZ6MDh0aDNldWQ1aWd3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8Sss1YFsMbPcx7bOh/giphy.webp" width="480" height="398">
 <p><img />
 
 
@@ -16,15 +16,14 @@
 - 📫 How to reach me **vattem.chandrasekhar@gmail.com**  
   
 
-
+<br><br><br>
   
 <div>
 	<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<div align="center">
 	    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs,vite,javascript,typescript,prisma" />
 	    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,nodejs,express,mongodb,mysql,linux" />
-		<img src="https://skillicons.dev/icons?
-	i=vscode,github,git,aws,linux,postman,tensorflow,pytorch,docker" />
+		<img src="https://skillicons.dev/icons?i=vscode,github,git,aws,linux,postman,tensorflow,pytorch,docker" />
 	   </div>
 </div>
 
