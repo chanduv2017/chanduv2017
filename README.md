@@ -13,7 +13,7 @@
 -  💬 Ask me about ****Algorithms, Data structures, and Competitive programming****
 - 📫 How to reach me **vattem.chandrasekhar@gmail.com**  
   
-<br><br><br><br><br>
+<br><br><br><br>
 <div>
 	<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 	<div align="center">
