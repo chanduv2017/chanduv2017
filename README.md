@@ -4,7 +4,7 @@
 </h1> 
 <h3 align="center">I am a passionate Full Stack web developer and a machine learning enthusiast. </h3>  
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d4c2R5ODhkNG44djdjcWppMzVsanRudDgxbnFiaXhvY3diYmN1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOzQVCxI9XwrsS1Nuz/giphy.gif" width="400" height="310">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZjcGE4ZGFsN21kOWQ2YThnc2V2NjFsNnlkcTBuNjFtZDkwdTJ2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7wzbwCLnoRwwXILJsB/giphy.gif" width="400" height="310">
 <p><img />
 
 - 🌱 I’m currently learning **NextJS and Deep learning**  
@@ -38,6 +38,6 @@
 
 Thank you for visiting my profile! Feel free to reach out to me for any collaboration or just to say hi. 😊
 
-<img align='center' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd5MTAxbmgzbHBuNHNocjNoZm1vZ3pwNjRwb3FodXk3aTI0YzdieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XaMLxETqNsIEYB1Zaz/giphy.webp" width="450" height="350">
+
 <p><img />
 
