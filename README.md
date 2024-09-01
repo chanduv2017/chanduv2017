@@ -25,6 +25,7 @@
 <div align="center">
 
 </div>
+<br>
 
 ## 💻 coding profiles:
 <a href="https://www.codechef.com/users/chandrasekharv" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=LnZMjt9rZC3d&format=png&color=000000" alt="chandrasekharv" height="30" width="40" /></a>  <a href="https://www.leetcode.com/chandu_028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandu_028" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/vattemchan8ibd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vattemchan8ibd" height="30" width="40" /></a>  
